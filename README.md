@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Devansh Gupta
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning at VIT Chennai
 - 📫 How to reach me: contact me with linkedin: https://www.linkedin.com/in/devansh-gupta-040831190/
 
 <!---
